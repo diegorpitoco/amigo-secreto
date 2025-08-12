@@ -50,9 +50,12 @@ Perfeito para aquele amigo que **esquece de anotar os nomes** e resolve na últi
     └── play_circle_outline.png
 
 
-🌐 Deploy no GitHub Pages
-Acesse a aplicação online:
-👉 Clique aqui e teste agora
+## 🌐 Deploy no GitHub Pages
+Acesse a aplicação online:  
+👉 [**Clique aqui e teste agora**](https://diegorpitoco.github.io/amigo-secreto/)
+
+[![Acessar Aplicação](https://img.shields.io/badge/Acessar%20Projeto-Amigo%20Secreto-brightgreen?style=for-the-badge)](https://diegorpitoco.github.io/amigo-secreto/)
+
 
 💡 Melhorias Futuras
  Adicionar modo dark 🌙
