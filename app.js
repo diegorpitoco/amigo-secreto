@@ -55,7 +55,7 @@ function sortearAmigo() {
   ulResultado.appendChild(li);
 }
 
-// Atalho: Enter no input também adiciona
+// Atalho Enter no input também adiciona
 document.addEventListener('DOMContentLoaded', () => {
   const input = document.getElementById('amigo');
   input.addEventListener('keydown', (e) => {
