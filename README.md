@@ -39,7 +39,7 @@ Perfeito para aquele amigo que **esquece de anotar os nomes** e resolve na últi
 5.  Quando todos estiverem na lista, clique em "Sortear Amigo" e divirta-se!
 
 
-
+📂 Estrutura de Arquivos
    
 📁 amigo-secreto/
 │── index.html         # Estrutura da página
@@ -65,7 +65,3 @@ Acesse a aplicação online:
 Este projeto está sob a licença MIT — fique à vontade para usar, modificar e compartilhar!
 
 Feito com ❤️ e um pouco de Math.random() 😄
-
-perl
-Copiar
-Editar
